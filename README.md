@@ -31,7 +31,3 @@ This project implements a deep learning solution for cloud prediction using sate
 Clone repository
 git clone https://github.com/krish7935/3D-U-Net-with-ConvLSTM-for-Cloud-Prediction-using-SEVIR-Data
 cd 3D-UNet-Cloud-Prediction-SEVIR
-
-Install dependencies
-pip install -r requirements.txt
-
